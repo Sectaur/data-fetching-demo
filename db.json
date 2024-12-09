@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone X",
+      "price": 5000,
+      "description": "Product ID 1: High-end smartphone with advanced camera features"
+    },
+    {
+      "id": 2,
+      "title": "Laptop Pro",
+      "price": 1299.99,
+      "description": "Product ID 2: Powerful laptop for professionals and creatives"
+    },
+    {
+      "id": 3,
+      "title": "Wireless Earbuds",
+      "price": 149.99,
+      "description": "Product ID 3: True wireless earbuds with noise cancellation"
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "price": 249.99,
+      "description": "Product ID 4: Fitness tracker and smartwatch with health monitoring"
+    },
+    {
+      "id": 5,
+      "title": "4K Ultra HD TV",
+      "price": 899.99,
+      "description": "Product ID 5: 55-inch 4K TV with HDR and smart features"
+    }
+  ]
+}
